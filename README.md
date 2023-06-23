@@ -15,3 +15,7 @@ Passo 3: Criar Imagem
 Passo 4: Criar Container e Direcionar as Portas
 
   docker container run -p 8080:80 -d serverweb:1.0
+
+Passo 5: Entrar no Endereço
+
+  localhost:8080
