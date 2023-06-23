@@ -12,6 +12,6 @@ Passo 3:
 
   <b>docker run -p 8080:80 -d hhyonemoto/serverweb:1.0</b>
 
-Passo 5: Entrar no Endereço
+Passo 4: Entrar no Endereço
 
   <b>localhost:8080</b>
